@@ -1,0 +1,3 @@
+app.message=Welcome to Spring Cloud Config
+app.college=KLU
+app.course=SOA
